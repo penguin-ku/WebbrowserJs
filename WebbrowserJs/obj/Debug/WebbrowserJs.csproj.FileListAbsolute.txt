@@ -1,0 +1,9 @@
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\WebbrowserJs\WebbrowserJs\bin\Debug\WebbrowserJs.exe.config
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\WebbrowserJs\WebbrowserJs\bin\Debug\WebbrowserJs.exe
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\WebbrowserJs\WebbrowserJs\bin\Debug\WebbrowserJs.pdb
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\WebbrowserJs\WebbrowserJs\obj\Debug\WebbrowserJs.csprojResolveAssemblyReference.cache
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\WebbrowserJs\WebbrowserJs\obj\Debug\WebbrowserJs.Form1.resources
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\WebbrowserJs\WebbrowserJs\obj\Debug\WebbrowserJs.Properties.Resources.resources
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\WebbrowserJs\WebbrowserJs\obj\Debug\WebbrowserJs.csproj.GenerateResource.Cache
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\WebbrowserJs\WebbrowserJs\obj\Debug\WebbrowserJs.exe
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\WebbrowserJs\WebbrowserJs\obj\Debug\WebbrowserJs.pdb

@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+
+
+
+<body>
+    <script type="text/javascript">
+        function Message(message)
+        {
+            document.getElementById("messageLabel").innerHTML = message;
+        }
+    </script>
+    <label id ="messageLabel">接收到的C#信息</label>
+
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+
+    <input id="iiii" type="text" name="firstname" value="John"/>
+    <button onclick="window.external.Message(document.getElementById('iiii').value)">发送</button>
+    <br />
+</body>
+</html>
